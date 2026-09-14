@@ -1,6 +1,6 @@
-#Kathy Nguyenp
+#Kathy Nguyen
 #PM
-#Park Admission
+#Theme Park Admission & Ride Eligibility System
 
 #Below is the program introduction where we're collecting info through inputs and whatnot
 print("=======================================================")
